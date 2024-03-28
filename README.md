@@ -10,6 +10,13 @@
 - Supports both dark and light themes, following Material 3 guidelines.
 - Includes a logo for the app.
 
+
+## Screenshots
+
+<img src="screenshots/darktheme.png" width=500 height=1000>
+<img src="screenshots/lighttheme.png" width=500 height=1000>
+
+
 ## Technologies Used
 
 - Kotlin
@@ -18,11 +25,14 @@
 
 ## Setup
 
-To run the app locally, follow these steps:
-
-1. Clone this repository.
-2. Open the project in Android Studio.
-3. Build and run the project on an Android device or emulator.
+1. **Clone the Repository**: 
+   ```
+   git clone https://github.com/IbrahimAlsaudi/30-days-learning.git
+   ```
+2. **Open in Android Studio**: 
+   Open the project in Android Studio.
+3. **Build and Run**: 
+   Build the project and run it on an emulator or a physical device.
 
    
 
@@ -30,5 +40,5 @@ To run the app locally, follow these steps:
 
 
 
-Feel free to contribute to this project by opening an issue or submitting a pull request!
+Contributions are welcome! If you'd like to contribute, please feel free to do so!
 
